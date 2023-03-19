@@ -1,4 +1,4 @@
 [build]
 functions="functions"
-command = "npm install"
+command = "npm install && npm run build"
 node_bundler = "esbuild"

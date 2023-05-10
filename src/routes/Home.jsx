@@ -27,9 +27,8 @@ const Home = () => {
         <a href="https://github.com/cutebear0123" target="__blank">
           <Button variant="outline-primary">GitHub</Button>
         </a>
-        <a href="https://discord.gg/GwGcDajNjk" target="__blank">
-          <Button variant="outline-primary">Discocrd</Button>
-        </a>
+      
+
         <a href="/">
           <Button variant="outline-primary">網站</Button>
         </a>
